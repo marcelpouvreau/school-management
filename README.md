@@ -10,7 +10,7 @@ the school was a community dedicated to innovation and building a better future 
 
 This is a simple web-based application for managing students and courses in a school.
 
-With this WEB APP you can: 
+## With this WEB APP you can: 
       Add new students and courses, view student details and course details,
       enroll and unenroll students from courses, add new teachers, view teachers details,
       add new courses, grades, classes, etc.
